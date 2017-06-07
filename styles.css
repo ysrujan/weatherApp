@@ -1,0 +1,24 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background: url("http://bgfons.com/upload/sky_texture1972.jpg?i=1");
+    background-size: cover;
+    background-position: center;
+}
+
+html{
+    height: 100%;
+}
+
+h1{
+    color: #696969;
+}
+
+.row{
+    text-align: center;
+    padding-top: 15%;
+}
+
+.form-control{
+
+    border: 1px solid rgba(0,0,0,0.2);
+}
